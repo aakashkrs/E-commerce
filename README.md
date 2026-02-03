@@ -8,10 +8,8 @@
 
 <p align="center">
     <a href="https://sahadcmd.github.io/Ecommerce-Website/" target="_blank">Visit Website</a>
-    ·
-    <a href="https://github.com/sahadcmd/Ecommerce-Website/issues" target="_blank">Report Bug</a>
-    ·
-    <a href="https://github.com/sahadcmd/Ecommerce-Website/issues" target="_blank">Request Feature</a>
+    
+    
 </p>
 
 ## About this project 🚀
